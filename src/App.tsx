@@ -246,8 +246,8 @@ export default function App() {
           <div className="flex items-center gap-4">
             <span>
               {isEs
-                ? "NASA Space Apps Challenge · Datos basados en fuentes oficiales de la NASA"
-                : "NASA Space Apps Challenge · Data sourced from official NASA standards"}
+                ? "Equipo JPD Astro ladera · NASA Space Apps Challenge · Fuentes oficiales de la NASA"
+                : "Team JPD Astro ladera · NASA Space Apps Challenge · Official NASA Sources"}
             </span>
             <div
               role="group"

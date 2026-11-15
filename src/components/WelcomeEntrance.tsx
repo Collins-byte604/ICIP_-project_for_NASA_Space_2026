@@ -144,8 +144,8 @@ export const WelcomeEntrance: React.FC<WelcomeEntranceProps> = ({
                     {isEs ? "Autoría del Proyecto:" : "Project Authorship:"}
                   </span>{" "}
                   {isEs
-                    ? "Equipo de Ingeniería Biomédica Aeroespacial ICIP (Instant Care — Innovative Protection)."
-                    : "ICIP Aerospace Biomedical Engineering Team (Instant Care — Innovative Protection)."}
+                    ? "Equipo JPD Astro ladera · Instant Care (Innovative Protection) ICIP."
+                    : "Team JPD Astro ladera · Instant Care (Innovative Protection) ICIP."}
                 </p>
                 <p>
                   <span className="font-semibold text-cyan-300">
