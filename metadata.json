@@ -1,0 +1,8 @@
+{
+  "name": "ICIP — Instant Care (Innovative Protection)",
+  "description": "Sistema operativo portátil aeroespacial de monitoreo biomédico, escáner holográfico diario y protocolo de emergencia en traje espacial para astronautas (NASA Space Apps Challenge).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
